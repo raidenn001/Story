@@ -1,2 +1,4 @@
 It is the chapter 2 s
 after changing branch --------------- 2
+
+after merging
